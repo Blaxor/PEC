@@ -1,0 +1,8 @@
+name: PEC
+description: Allows you remote access to your enderchest inventory.
+version: 4.3
+main: ro.deiutzblaxo.PEC.Main
+commands:
+  pec:
+    description: Open Enderchest.
+    usage: /pec <player>

@@ -1,0 +1,12 @@
+#PEC 4.3
+RightClickOpenPEC : true
+LeftClickOpenPEC : true
+OpenPEC: "&AYou just open PEC"
+NoPermission: "&4You can`t do this!"
+NoPlayerFound: "&4ThePlayer itsn`t online!"
+OpenOtherPlayerPECDeny: "&4Can`t open his PEC"
+# Only at "OpenOtherPlayerPEC" can use %player%
+OpenOtherPlayerPEC: "&AYou just open %player%'s PEC!"
+NoPermissionOtherPEC: "&4You can`t do this!"
+TooManyArguments: "&4Too many Arguments."
+OnlyPlayers: "&eOnly players can use this command!"
